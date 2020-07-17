@@ -1,7 +1,7 @@
 ### Hi there 👋
  Hi, I'm Faysal. I'm a full-stack web developer from Dhaka, Bangladesh.
 
-I love working with PHP and JavaScript, with a particular affection for the Laravel and Vuejs frameworks respectively. I often use WordPress CMS for general purpose websites. 
+I love working with PHP and JavaScript, with a particular affection for the Laravel and Vuejs frameworks respectively. I often use WordPress for general purpose websites. 
 
 <!--
 **devfaysal/devfaysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
